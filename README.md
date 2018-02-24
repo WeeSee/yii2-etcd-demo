@@ -19,7 +19,7 @@ Composer need to be installed
 Then start this website in your browser and goto the menu item "Etcd".
 You should seed this little demo:
 
-![Image of Demo](https://github.com/WeeSee/yii2-etcd.git/master/yii2-etcd-demo.png)
+![Image of Demo](https://github.com/WeeSee/yii2-etcd-demo/blob/master/yii2-etcd-demo.png)
 
 # Author / Licence
 
