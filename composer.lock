@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "03b3ad8ee02dbc9e404c7632013c022a",
+    "content-hash": "9e6c9b66bdd3f24688e8cb84fff703dd",
     "packages": [
         {
             "name": "activecollab/etcd",
@@ -322,12 +322,17 @@
         },
         {
             "name": "weesee/yii2-etcd",
-            "version": "9999999-dev",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WeeSee/yii2-etcd.git",
+                "reference": "b6fe3593d85416fc9b824462158f2d88b4019ec3"
+            },
             "dist": {
-                "type": "path",
-                "url": "../yii2-etcd",
-                "reference": "5c83fd6fdfb62ce8cf17a3fc820bcb0400ad1bc1",
-                "shasum": null
+                "type": "zip",
+                "url": "https://api.github.com/repos/WeeSee/yii2-etcd/zipball/b6fe3593d85416fc9b824462158f2d88b4019ec3",
+                "reference": "b6fe3593d85416fc9b824462158f2d88b4019ec3",
+                "shasum": ""
             },
             "require": {
                 "activecollab/etcd": "^1.0",
@@ -340,6 +345,7 @@
                     "weesee\\etcd\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-only"
             ],
@@ -354,10 +360,7 @@
                 "etcd",
                 "yii2"
             ],
-            "support": {
-                "issues": "https://github.com/weesee/yii2-etcd/issues",
-                "source": "https://github.com/weesee/yii2-etcd"
-            }
+            "time": "2018-02-24T20:15:46+00:00"
         },
         {
             "name": "yiisoft/yii2",
